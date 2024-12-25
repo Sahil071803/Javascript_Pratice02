@@ -1,0 +1,2 @@
+# Javascript_Pratice02
+Javascript_Pratice
